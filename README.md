@@ -21,3 +21,5 @@ python3 cli.py balance
 python3 cli.py send --from xxx --to xxx --amount xxx
 
 python3 cli.py print//you can see how many blocks and all blocks
+
+If you don't want to bother to install it, you can see the ppt inside. There are screenshots of our successful operation, and I will upload a video demo later
